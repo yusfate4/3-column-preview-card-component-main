@@ -29,8 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./card.png.jpg)
 
+<<<<<<< HEAD
+=======
+
+![card](https://user-images.githubusercontent.com/65573250/173956320-c2ca6ac4-7a78-4d0d-ac9c-9c18d0ab451e.png)
+
+>>>>>>> c090cd57eba5a476efafca80cf1c57c3dc2e192e
 
 ### Links
 
